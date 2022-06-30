@@ -17,3 +17,22 @@
 ul {
     color: grey;
 }
+
+ol {
+    font-size: large;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    color: rgb(67, 67, 67);
+    background-color: pink;
+    text-align: center;
+}
